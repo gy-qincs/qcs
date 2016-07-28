@@ -1,0 +1,6 @@
+com\alipay\vbizplatform\web\filter\SessionPowerFilter.class
+com\alipay\vbizplatform\web\controller\BaseController.class
+com\alipay\vbizplatform\web\controller\CarOwnerController.class
+com\alipay\vbizplatform\web\controller\MyMessageController.class
+com\alipay\vbizplatform\web\controller\CarInfoInterfaceController.class
+com\alipay\vbizplatform\web\controller\MyCarManageController.class

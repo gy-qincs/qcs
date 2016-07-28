@@ -1,0 +1,84 @@
+/*toast*/
+.TOAST {
+    position: absolute;
+    z-index: 999999;
+    bottom: 20%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    text-shadow: 1px 1px 5px #969696;
+    opacity: 0;
+}
+
+.TOAST .CONTENT {
+    background: #333333;
+    padding: 10px;
+    color: #ffffff;
+    font-size: 17px;
+    box-shadow: 2px 2px 5px #969696;
+    /*border: solid 1px #ffffff;*/
+    border-radius: 8px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: clip;
+}
+
+/*loading*/
+.LOADING {
+    position: absolute;
+    top: 36%;
+    width: 65%;
+    left: 20%;
+    border: solid 1px #ffffff;
+    text-align: center;
+    background: #333333;
+    padding: 10px 0 10px 0;
+    opacity: .8;
+    border-radius: 10px;
+}
+
+.LOADING_CONTENT {
+    width: 100%;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 10px;
+    color: #ffffff;
+    text-shadow: 0 0 6px #007eff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*ModalWindow*/
+.mw_container {
+    position: absolute;
+    z-index: 99999;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #ffffff;
+    text-align: center;
+    -webkit-animation-name: zoom-in;
+    -webkit-animation-duration: 300ms;
+    -webkit-animation-timing-function: ease-in;
+}
+
+.mw_header {
+    margin: auto;
+    width: 100%;
+    height: 48px;
+    background-color: #333333;
+    text-align: right;
+}
+
+.mw_iframe {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.mw_loading {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}

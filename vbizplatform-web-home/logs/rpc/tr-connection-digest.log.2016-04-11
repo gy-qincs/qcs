@@ -1,0 +1,820 @@
+2016-04-11 10:06:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:07:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:08:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:09:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:10:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:11:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:12:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:13:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:14:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:15:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:16:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:17:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:18:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:19:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:20:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:21:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:22:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:23:10,208 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:24:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 10:25:10,207 INFO [pool-5-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:25:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:26:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:27:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:28:35,661 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:29:35,661 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:30:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:31:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:32:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:33:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:34:35,661 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:35:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:36:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:37:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:38:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:39:35,661 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:40:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:41:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 11:42:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:43:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:44:35,660 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:45:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:46:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:47:35,731 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:48:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:49:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:50:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:51:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:52:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:53:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:54:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:55:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:56:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:57:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:58:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 11:59:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:00:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:01:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:02:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:03:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:04:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:05:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:06:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:07:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:08:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:09:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:10:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:11:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:12:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:13:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:14:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:15:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:16:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:17:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:18:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:19:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:20:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:21:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:22:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:23:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:24:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:25:35,731 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:26:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:27:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:28:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:29:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:30:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:31:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:32:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:33:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:34:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:35:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:36:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:37:35,730 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:38:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:39:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:40:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:41:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:42:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:43:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:44:35,729 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:45:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:46:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:47:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:48:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:49:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:50:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:51:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:52:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:53:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:54:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:55:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:56:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:57:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:58:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 12:59:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:00:36,570 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:01:36,570 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:02:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:03:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:04:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:05:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:06:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:07:36,570 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:08:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:09:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:10:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:11:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:12:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:13:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:14:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:15:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:16:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:17:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:18:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:19:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:20:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:21:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:22:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:23:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:24:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:25:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:26:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:27:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:28:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:29:36,570 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:30:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:31:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:32:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:33:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:34:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:35:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:36:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:37:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:38:36,570 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:39:36,571 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:40:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:41:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:42:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:43:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:44:36,568 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:45:36,569 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:46:36,261 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:47:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:48:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:49:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:50:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:51:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:52:36,259 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:53:36,259 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:54:36,259 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:55:36,261 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:56:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:57:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:58:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 13:59:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:00:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:01:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:02:36,259 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:03:36,259 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:04:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:05:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:06:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:07:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:08:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:09:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:10:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:11:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:12:36,259 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:13:36,259 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:14:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:15:36,260 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 14:35:35,169 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:36:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:37:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:38:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:39:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:40:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:41:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:42:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:43:35,170 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:44:35,169 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:45:35,169 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:46:34,278 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:47:34,276 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:48:34,277 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:49:34,276 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:50:34,276 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:51:34,276 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:53:55,614 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:54:55,613 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:55:55,614 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:56:55,613 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:57:55,613 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 14:58:55,612 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:00:53,981 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:01:53,981 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:02:53,981 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 15:03:53,981 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 15:04:53,981 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 15:05:53,981 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 15:12:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:13:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:14:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:15:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:16:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:17:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:18:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:19:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:20:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:21:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:22:16,874 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:23:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:24:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:25:16,873 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:28:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:29:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,0,0,0)
+2016-04-11 15:30:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,0,0,0)
+2016-04-11 15:31:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,0,0,0)
+2016-04-11 15:32:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,0,0,0)
+2016-04-11 15:33:41,556 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,0,0,0)
+2016-04-11 15:34:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,0,0,0)
+2016-04-11 15:35:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:36:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:37:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:38:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:39:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:40:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:41:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:42:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:43:41,555 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:44:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:45:41,554 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:46:42,703 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:47:42,703 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:48:42,703 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:49:42,703 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:50:42,702 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:51:42,702 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:52:42,703 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 15:53:42,703 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 16:43:32,651 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 16:44:32,651 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:44:16,922 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:45:16,920 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:46:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:47:18,108 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:48:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:49:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:50:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:51:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:52:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:53:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:54:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:55:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:56:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:57:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:58:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 18:59:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:00:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:01:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:02:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:03:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:04:18,107 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:05:18,107 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:06:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:07:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:08:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:09:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:10:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:11:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:12:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:13:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:14:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:15:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:16:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:17:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:18:18,106 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:19:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:20:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:21:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:22:18,105 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:23:18,107 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:30:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:31:27,523 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:32:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:33:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:34:27,525 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:35:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:36:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:37:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:38:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:39:27,523 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,1,0,0)
+2016-04-11 19:40:27,523 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:41:27,523 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:42:27,523 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:43:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:44:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:45:27,524 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:46:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:47:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:48:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:49:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:50:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:51:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:52:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:53:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:54:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:55:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:56:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:57:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:58:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 19:59:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:00:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:01:27,495 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:02:27,495 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:03:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:04:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:05:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:06:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:07:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:08:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:09:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:10:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:11:27,495 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:12:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:13:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:14:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:15:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:16:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:17:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:18:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:19:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:20:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:21:27,495 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:22:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:23:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:24:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:25:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:26:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:27:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:28:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:29:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:30:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:31:27,495 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:32:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:33:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:34:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:35:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:36:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:37:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:38:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:39:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:40:27,495 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:41:27,495 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:42:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:43:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:44:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:45:27,496 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:46:27,497 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:47:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:48:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:49:27,124 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:50:27,124 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:51:27,127 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:52:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:53:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:54:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:55:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:56:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:57:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:58:27,124 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 20:59:27,124 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:00:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:01:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:02:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:03:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:04:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:05:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:06:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:07:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:08:27,124 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:09:27,124 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:10:27,124 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:11:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:12:27,126 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:13:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:14:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:15:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:16:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)
+2016-04-11 21:17:27,125 INFO [pool-4-thread-1] [TR-CONNECTION-POOL-DIGEST] - pool:
+(mycardemo,mycardemo,0,2,0,0)

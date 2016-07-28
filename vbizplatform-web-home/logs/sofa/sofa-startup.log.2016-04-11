@@ -1,0 +1,72 @@
+2016-04-11 10:00:36,315 [main] - initializing slite framework
+2016-04-11 10:00:51,679 [main] - 2016-04-11T10:00:51.679+0800 mycardemo Started in Slite
+2016-04-11 10:00:51,679 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 10:00:52,701 [main] - initializing slite framework
+2016-04-11 10:00:54,349 [main] - slite framework already started
+2016-04-11 10:00:54,349 [main] - slite framework already started
+2016-04-11 11:23:47,737 [main] - initializing slite framework
+2016-04-11 11:24:11,670 [main] - 2016-04-11T11:24:11.670+0800 mycardemo Started in Slite
+2016-04-11 11:24:11,671 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 11:24:13,001 [main] - initializing slite framework
+2016-04-11 11:24:16,350 [main] - slite framework already started
+2016-04-11 11:24:16,351 [main] - slite framework already started
+2016-04-11 14:33:36,904 [main] - initializing slite framework
+2016-04-11 14:33:57,958 [main] - 2016-04-11T14:33:57.958+0800 mycardemo Started in Slite
+2016-04-11 14:33:57,959 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 14:33:58,954 [main] - initializing slite framework
+2016-04-11 14:34:00,394 [main] - slite framework already started
+2016-04-11 14:34:00,394 [main] - slite framework already started
+2016-04-11 14:52:12,978 [main] - initializing slite framework
+2016-04-11 14:52:35,421 [main] - 2016-04-11T14:52:35.421+0800 mycardemo Started in Slite
+2016-04-11 14:52:35,422 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 14:52:36,256 [main] - initializing slite framework
+2016-04-11 14:52:37,452 [main] - slite framework already started
+2016-04-11 14:52:37,453 [main] - slite framework already started
+2016-04-11 14:59:04,766 [main] - initializing slite framework
+2016-04-11 14:59:27,247 [main] - 2016-04-11T14:59:27.247+0800 mycardemo Started in Slite
+2016-04-11 14:59:27,248 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 14:59:28,105 [main] - initializing slite framework
+2016-04-11 14:59:29,357 [main] - slite framework already started
+2016-04-11 14:59:29,357 [main] - slite framework already started
+2016-04-11 15:06:17,563 [main] - initializing slite framework
+2016-04-11 15:06:39,150 [main] - 2016-04-11T15:06:39.150+0800 mycardemo Started in Slite
+2016-04-11 15:06:39,150 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 15:06:40,024 [main] - initializing slite framework
+2016-04-11 15:06:41,265 [main] - slite framework already started
+2016-04-11 15:06:41,265 [main] - slite framework already started
+2016-04-11 15:26:55,737 [main] - initializing slite framework
+2016-04-11 15:27:16,933 [main] - 2016-04-11T15:27:16.933+0800 mycardemo Started in Slite
+2016-04-11 15:27:16,933 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 15:27:17,780 [main] - initializing slite framework
+2016-04-11 15:27:19,039 [main] - slite framework already started
+2016-04-11 15:27:19,039 [main] - slite framework already started
+2016-04-11 15:54:03,896 [main] - initializing slite framework
+2016-04-11 15:54:25,606 [main] - 2016-04-11T15:54:25.606+0800 mycardemo Started in Slite
+2016-04-11 15:54:25,607 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 15:54:26,410 [main] - initializing slite framework
+2016-04-11 15:54:27,771 [main] - slite framework already started
+2016-04-11 15:54:27,771 [main] - slite framework already started
+2016-04-11 17:25:54,123 [main] - initializing slite framework
+2016-04-11 17:26:15,491 [main] - 2016-04-11T17:26:15.491+0800 mycardemo Started in Slite
+2016-04-11 17:26:15,491 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 17:26:16,838 [main] - initializing slite framework
+2016-04-11 17:26:18,109 [main] - slite framework already started
+2016-04-11 17:26:18,109 [main] - slite framework already started
+2016-04-11 17:36:42,392 [main] - initializing slite framework
+2016-04-11 17:37:04,705 [main] - 2016-04-11T17:37:04.705+0800 mycardemo Started in Slite
+2016-04-11 17:37:04,706 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 17:37:05,530 [main] - initializing slite framework
+2016-04-11 17:37:06,776 [main] - slite framework already started
+2016-04-11 17:37:06,776 [main] - slite framework already started
+2016-04-11 18:39:01,622 [main] - initializing slite framework
+2016-04-11 18:39:23,213 [main] - 2016-04-11T18:39:23.213+0800 mycardemo Started in Slite
+2016-04-11 18:39:23,213 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 18:39:24,259 [main] - initializing slite framework
+2016-04-11 18:39:25,591 [main] - slite framework already started
+2016-04-11 18:39:25,591 [main] - slite framework already started
+2016-04-11 19:28:35,076 [main] - initializing slite framework
+2016-04-11 19:28:56,774 [main] - 2016-04-11T19:28:56.773+0800 mycardemo Started in Slite
+2016-04-11 19:28:56,774 [main] - binding application context from config file: classpath:META-INF/applicationContext*.xml
+2016-04-11 19:28:57,757 [main] - initializing slite framework
+2016-04-11 19:28:59,230 [main] - slite framework already started
+2016-04-11 19:28:59,230 [main] - slite framework already started

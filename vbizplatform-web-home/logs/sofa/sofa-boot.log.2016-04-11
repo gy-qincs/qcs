@@ -1,0 +1,276 @@
+2016-04-11 10:00:38,686 [main] - ===========================================================================
+2016-04-11 10:00:38,687 [main] - |                        [SOFA Component List]                            |
+2016-04-11 10:00:38,687 [main] - ===========================================================================
+2016-04-11 10:00:38,687 [main] - [reference] : 2
+2016-04-11 10:00:38,687 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 10:00:38,687 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 10:00:38,687 [main] - ===========================================================================
+2016-04-11 10:00:51,631 [main] - ===========================================================================
+2016-04-11 10:00:51,631 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 10:00:51,631 [main] - ===========================================================================
+2016-04-11 10:00:51,631 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 10:00:51,631 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 10:00:51,631 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 10:00:51,632 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 10:00:51,632 [main] - ------------------------------------------------------------------------------------
+2016-04-11 10:00:51,632 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 10:00:51,632 [main] - ------------------------------------------------------------------------------------
+2016-04-11 10:00:51,633 [main] - ------------------------------------------------------------------------------------
+2016-04-11 10:00:51,633 [main] - ------------------------------------------------------------------------------------
+2016-04-11 10:00:51,633 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 10:00:51,633 [main] - ------------------------------------------------------------------------------------
+2016-04-11 10:00:51,633 [main] - ------------------------------------------------------------------------------------
+2016-04-11 10:00:51,633 [main] - ===========================================================================
+2016-04-11 11:23:58,008 [main] - ===========================================================================
+2016-04-11 11:23:58,008 [main] - |                        [SOFA Component List]                            |
+2016-04-11 11:23:58,008 [main] - ===========================================================================
+2016-04-11 11:23:58,009 [main] - [reference] : 2
+2016-04-11 11:23:58,009 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 11:23:58,009 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 11:23:58,009 [main] - ===========================================================================
+2016-04-11 11:24:11,659 [main] - ===========================================================================
+2016-04-11 11:24:11,659 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 11:24:11,659 [main] - ===========================================================================
+2016-04-11 11:24:11,660 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 11:24:11,660 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 11:24:11,660 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 11:24:11,660 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 11:24:11,660 [main] - ------------------------------------------------------------------------------------
+2016-04-11 11:24:11,660 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 11:24:11,660 [main] - ------------------------------------------------------------------------------------
+2016-04-11 11:24:11,662 [main] - ------------------------------------------------------------------------------------
+2016-04-11 11:24:11,664 [main] - ------------------------------------------------------------------------------------
+2016-04-11 11:24:11,664 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 11:24:11,665 [main] - ------------------------------------------------------------------------------------
+2016-04-11 11:24:11,665 [main] - ------------------------------------------------------------------------------------
+2016-04-11 11:24:11,665 [main] - ===========================================================================
+2016-04-11 14:33:45,480 [main] - ===========================================================================
+2016-04-11 14:33:45,480 [main] - |                        [SOFA Component List]                            |
+2016-04-11 14:33:45,480 [main] - ===========================================================================
+2016-04-11 14:33:45,480 [main] - [reference] : 2
+2016-04-11 14:33:45,481 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 14:33:45,481 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 14:33:45,481 [main] - ===========================================================================
+2016-04-11 14:33:57,952 [main] - ===========================================================================
+2016-04-11 14:33:57,952 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 14:33:57,952 [main] - ===========================================================================
+2016-04-11 14:33:57,952 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:33:57,952 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:33:57,953 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:33:57,953 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:33:57,953 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:33:57,953 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:33:57,953 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:33:57,954 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:33:57,954 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:33:57,954 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:33:57,954 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:33:57,954 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:33:57,954 [main] - ===========================================================================
+2016-04-11 14:52:22,234 [main] - ===========================================================================
+2016-04-11 14:52:22,234 [main] - |                        [SOFA Component List]                            |
+2016-04-11 14:52:22,234 [main] - ===========================================================================
+2016-04-11 14:52:22,234 [main] - [reference] : 2
+2016-04-11 14:52:22,234 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 14:52:22,234 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 14:52:22,234 [main] - ===========================================================================
+2016-04-11 14:52:35,416 [main] - ===========================================================================
+2016-04-11 14:52:35,416 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 14:52:35,416 [main] - ===========================================================================
+2016-04-11 14:52:35,417 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:52:35,417 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:52:35,417 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:52:35,417 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:52:35,417 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:52:35,417 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:52:35,417 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:52:35,418 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:52:35,418 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:52:35,418 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:52:35,418 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:52:35,418 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:52:35,418 [main] - ===========================================================================
+2016-04-11 14:59:13,806 [main] - ===========================================================================
+2016-04-11 14:59:13,806 [main] - |                        [SOFA Component List]                            |
+2016-04-11 14:59:13,806 [main] - ===========================================================================
+2016-04-11 14:59:13,806 [main] - [reference] : 2
+2016-04-11 14:59:13,807 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 14:59:13,807 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 14:59:13,807 [main] - ===========================================================================
+2016-04-11 14:59:27,239 [main] - ===========================================================================
+2016-04-11 14:59:27,239 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 14:59:27,241 [main] - ===========================================================================
+2016-04-11 14:59:27,241 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:59:27,241 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:59:27,241 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:59:27,241 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:59:27,241 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:59:27,241 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:59:27,241 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:59:27,242 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:59:27,242 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:59:27,242 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 14:59:27,242 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:59:27,243 [main] - ------------------------------------------------------------------------------------
+2016-04-11 14:59:27,243 [main] - ===========================================================================
+2016-04-11 15:06:26,403 [main] - ===========================================================================
+2016-04-11 15:06:26,403 [main] - |                        [SOFA Component List]                            |
+2016-04-11 15:06:26,403 [main] - ===========================================================================
+2016-04-11 15:06:26,404 [main] - [reference] : 2
+2016-04-11 15:06:26,404 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 15:06:26,404 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 15:06:26,404 [main] - ===========================================================================
+2016-04-11 15:06:39,144 [main] - ===========================================================================
+2016-04-11 15:06:39,144 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 15:06:39,144 [main] - ===========================================================================
+2016-04-11 15:06:39,144 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:06:39,144 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:06:39,144 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:06:39,144 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:06:39,144 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:06:39,145 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:06:39,145 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:06:39,146 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:06:39,146 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:06:39,146 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:06:39,146 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:06:39,146 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:06:39,146 [main] - ===========================================================================
+2016-04-11 15:27:04,526 [main] - ===========================================================================
+2016-04-11 15:27:04,526 [main] - |                        [SOFA Component List]                            |
+2016-04-11 15:27:04,526 [main] - ===========================================================================
+2016-04-11 15:27:04,527 [main] - [reference] : 2
+2016-04-11 15:27:04,527 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 15:27:04,527 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 15:27:04,527 [main] - ===========================================================================
+2016-04-11 15:27:16,927 [main] - ===========================================================================
+2016-04-11 15:27:16,927 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 15:27:16,928 [main] - ===========================================================================
+2016-04-11 15:27:16,928 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:27:16,928 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:27:16,928 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:27:16,928 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:27:16,928 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:27:16,928 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:27:16,928 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:27:16,929 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:27:16,929 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:27:16,929 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:27:16,929 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:27:16,930 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:27:16,930 [main] - ===========================================================================
+2016-04-11 15:54:12,788 [main] - ===========================================================================
+2016-04-11 15:54:12,788 [main] - |                        [SOFA Component List]                            |
+2016-04-11 15:54:12,788 [main] - ===========================================================================
+2016-04-11 15:54:12,788 [main] - [reference] : 2
+2016-04-11 15:54:12,788 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 15:54:12,788 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 15:54:12,788 [main] - ===========================================================================
+2016-04-11 15:54:25,599 [main] - ===========================================================================
+2016-04-11 15:54:25,599 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 15:54:25,599 [main] - ===========================================================================
+2016-04-11 15:54:25,599 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:54:25,599 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:54:25,599 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:54:25,599 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:54:25,599 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:54:25,599 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:54:25,599 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:54:25,600 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:54:25,600 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:54:25,600 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 15:54:25,600 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:54:25,601 [main] - ------------------------------------------------------------------------------------
+2016-04-11 15:54:25,601 [main] - ===========================================================================
+2016-04-11 17:26:02,887 [main] - ===========================================================================
+2016-04-11 17:26:02,887 [main] - |                        [SOFA Component List]                            |
+2016-04-11 17:26:02,887 [main] - ===========================================================================
+2016-04-11 17:26:02,887 [main] - [reference] : 2
+2016-04-11 17:26:02,887 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 17:26:02,887 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 17:26:02,887 [main] - ===========================================================================
+2016-04-11 17:26:15,485 [main] - ===========================================================================
+2016-04-11 17:26:15,485 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 17:26:15,486 [main] - ===========================================================================
+2016-04-11 17:26:15,486 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:26:15,486 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:26:15,486 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:26:15,486 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:26:15,486 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:26:15,486 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:26:15,486 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:26:15,487 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:26:15,487 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:26:15,487 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:26:15,487 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:26:15,487 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:26:15,487 [main] - ===========================================================================
+2016-04-11 17:36:51,218 [main] - ===========================================================================
+2016-04-11 17:36:51,218 [main] - |                        [SOFA Component List]                            |
+2016-04-11 17:36:51,218 [main] - ===========================================================================
+2016-04-11 17:36:51,218 [main] - [reference] : 2
+2016-04-11 17:36:51,219 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 17:36:51,219 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 17:36:51,219 [main] - ===========================================================================
+2016-04-11 17:37:04,700 [main] - ===========================================================================
+2016-04-11 17:37:04,700 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 17:37:04,700 [main] - ===========================================================================
+2016-04-11 17:37:04,700 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:37:04,701 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:37:04,701 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:37:04,701 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:37:04,701 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:37:04,701 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:37:04,701 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:37:04,702 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:37:04,702 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:37:04,702 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 17:37:04,702 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:37:04,702 [main] - ------------------------------------------------------------------------------------
+2016-04-11 17:37:04,702 [main] - ===========================================================================
+2016-04-11 18:39:10,535 [main] - ===========================================================================
+2016-04-11 18:39:10,536 [main] - |                        [SOFA Component List]                            |
+2016-04-11 18:39:10,536 [main] - ===========================================================================
+2016-04-11 18:39:10,537 [main] - [reference] : 2
+2016-04-11 18:39:10,537 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 18:39:10,538 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 18:39:10,538 [main] - ===========================================================================
+2016-04-11 18:39:23,204 [main] - ===========================================================================
+2016-04-11 18:39:23,204 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 18:39:23,204 [main] - ===========================================================================
+2016-04-11 18:39:23,205 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 18:39:23,205 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 18:39:23,205 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 18:39:23,205 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 18:39:23,205 [main] - ------------------------------------------------------------------------------------
+2016-04-11 18:39:23,205 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 18:39:23,205 [main] - ------------------------------------------------------------------------------------
+2016-04-11 18:39:23,206 [main] - ------------------------------------------------------------------------------------
+2016-04-11 18:39:23,206 [main] - ------------------------------------------------------------------------------------
+2016-04-11 18:39:23,207 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 18:39:23,207 [main] - ------------------------------------------------------------------------------------
+2016-04-11 18:39:23,207 [main] - ------------------------------------------------------------------------------------
+2016-04-11 18:39:23,207 [main] - ===========================================================================
+2016-04-11 19:28:43,727 [main] - ===========================================================================
+2016-04-11 19:28:43,728 [main] - |                        [SOFA Component List]                            |
+2016-04-11 19:28:43,728 [main] - ===========================================================================
+2016-04-11 19:28:43,728 [main] - [reference] : 2
+2016-04-11 19:28:43,728 [main] - reference:alipay.open.ecology.message.service.facade.MessageFacade:#377699348
+2016-04-11 19:28:43,728 [main] - reference:com.alipay.vehicleownercore.service.facade.VehicleServiceFacade:#-183644305
+2016-04-11 19:28:43,728 [main] - ===========================================================================
+2016-04-11 19:28:56,764 [main] - ===========================================================================
+2016-04-11 19:28:56,764 [main] - |                    [SOFA Process Action after Started]                   |
+2016-04-11 19:28:56,764 [main] - ===========================================================================
+2016-04-11 19:28:56,764 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 19:28:56,764 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 19:28:56,765 [main] - [Sofa Component] -class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 19:28:56,765 [main] - [Find deployCompletion method]-[level:0]class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 19:28:56,765 [main] - ------------------------------------------------------------------------------------
+2016-04-11 19:28:56,765 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 19:28:56,765 [main] - ------------------------------------------------------------------------------------
+2016-04-11 19:28:56,767 [main] - ------------------------------------------------------------------------------------
+2016-04-11 19:28:56,767 [main] - ------------------------------------------------------------------------------------
+2016-04-11 19:28:56,767 [main] - Start invoke deployCompletion method[level:0] class com.alipay.sofa.runtime.service.component.ReferenceComponent
+2016-04-11 19:28:56,767 [main] - ------------------------------------------------------------------------------------
+2016-04-11 19:28:56,767 [main] - ------------------------------------------------------------------------------------
+2016-04-11 19:28:56,767 [main] - ===========================================================================

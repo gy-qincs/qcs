@@ -1,0 +1,6 @@
+2016-04-14 09:13:08,546 WARN [taobao.remoting.core.TimeoutRespScanner] [taobao.remoting] - **********Timeout scan thread sleep time cost[39,139,599]ms actually.
+2016-04-14 09:13:09,370 WARN [SocketConnectorIoProcessor-0.1] [taobao.remoting] - **********close connection[L=192.168.8.66:58618, R=192.168.8.26:12224, S=DisConnected]
+2016-04-14 09:13:09,274 WARN [SocketConnectorIoProcessor-0.0] [taobao.remoting] - **********close connection[L=192.168.8.66:58561, R=192.168.8.225:12277, S=DisConnected]
+2016-04-14 15:51:48,027 WARN [taobao.remoting.core.TimeoutRespScanner] [taobao.remoting] - **********Timeout scan thread sleep time cost[1,386]ms actually.
+2016-04-14 18:51:50,026 WARN [taobao.remoting.core.TimeoutRespScanner] [taobao.remoting] - **********Timeout scan thread sleep time cost[235]ms actually.
+2016-04-14 21:01:10,894 WARN [taobao.remoting.core.TimeoutRespScanner] [taobao.remoting] - **********Timeout scan thread sleep time cost[155]ms actually.

@@ -1,0 +1,3 @@
+2016-04-10 11:59:59,847 ERROR [SocketConnectorIoProcessor-0.0] [taobao.remoting] - Exceptional response[1], connection[L=192.168.8.66:50349, R=192.168.8.225:12277, S=Connected].
+Request: [RequestBase[Service=alipay.open.ecology.message.service.facade.MessageFacade:1.0, Method=getBrands, Parameters=]]].
+Reason: [反序列化业务请求时出现错误:java.io.IOException: RPC-02301: 没有找到对应的服务：[alipay.open.ecology.message.service.facade.MessageFacade:1.0]，请确认对方[192.168.8.225]的服务已经发布 ].

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="propertyConfigurer"
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+			<list>
+				<!-- <value>${common.config.file.dir}</value> -->
+				<value>classpath:config/common-config.properties</value>
+			</list>
+		</property>
+	</bean>
+	
+	<bean id="userauthIntegration" class="com.alipay.vbizplatform.vbizplatform.common.service.integration.impl.UserauthIntegrationImpl">
+		<property name="userFacade" ref="userFacade"></property>
+		<property name="userAuthFacade" ref="userAuthFacade"></property>
+	</bean>
+	<bean id="userQueryIntegration" class="com.alipay.vbizplatform.vbizplatform.common.service.integration.impl.UserQueryIntegrationImpl">
+		<property name="vehicleOwnerInfoServiceFacade" ref="vehicleOwnerInfoService"></property>
+	</bean>
+	
+	
+	<!-- 需实现javax.servlet.Filter接口 -->
+	<bean id="sessionPowerFilter" class="com.alipay.vbizplatform.web.filter.SessionPowerFilter">
+		<property name="noSessionRedirectUrl" value="${filter.noSessionRedirectUrl}"></property>
+		<property name="indexRedirectUrl" value="${filter.indexRedirectUrl}"></property>
+		<property name="authPathUrl" value="${filter.authPathUrl}"></property>
+		<property name="userauthIntegration" ref="userauthIntegration"></property>
+		<property name="userQueryIntegration" ref="userQueryIntegration"></property>
+		<property name="appId" value="${alipay.vbizplatform.appid}"></property>
+		<property name="noLoginAccessUrlList">
+			<list>
+			   <value>${filter.noLoginAccessUrl}</value>
+			</list>
+		</property>
+	</bean>
+
+
+
+</beans>

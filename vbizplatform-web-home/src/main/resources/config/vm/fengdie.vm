@@ -1,0 +1,8 @@
+#set ($qukuai = [
+{"desc":"老用户8折", "img":"../images/fengdie/jiayou.png", "jiaobiao":"../images/icon-new-jiaobiao.png", "url":"alipays://platformapi/startapp?appId=2015042200550511&b=t&a=sh&pid=2015010800024214", "title": "加油"},
+{"desc":"新用户9折", "img":"../imagesfengdie/upkeep.png", "jiaobiao":"../images/icon-new-jiaobiao.png", "title": "保养"},
+{"desc":"安全无忧", "img":"../images/fengdie/peccany.png",  "title": "查违章"},
+{"desc":"随心所愿洗", "img":"../images/fengdie/car-wash.png",  "title": "洗车"},
+{"desc":"随时随地安心代", "img":"../images/fengdie/designated-driving.png", "title": "代驾"},
+{"desc":"出行更安全", "img":"../images/fengdie/ambralla.png", "title": "车险"}
+])

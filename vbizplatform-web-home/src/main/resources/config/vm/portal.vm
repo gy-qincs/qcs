@@ -1,0 +1,270 @@
+<%@ page language="java" pageEncoding="UTF-8" isELIgnored="false"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jstl/core-jakarta"%>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jstl/fmt"%>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>车主服务</title>
+<meta name="viewport"
+	content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<link rel="stylesheet" href="../css/mui.min.css">
+<link rel="stylesheet" href="../css/cars.css">
+<script type="text/javascript" src="../js/jquery/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="../js/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="../js/portal.js"></script>
+<script type="text/javascript" src="../js/mui.min.js"></script>
+</head>
+<body>
+	<div class="mui-content">
+		<div class="transparent_bg" >
+			<header class="mui-bar mui-bar-nav transparent_cl">
+				<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left"
+					onclick="goBack();"> <span class="back-span"
+					style="margin-left: -11px;">返回</span>
+				</a>
+				<h1 class="mui-title car-mui-title">车主服务</h1>
+				<a class="mui-icon mui-pull-right" href="#" onclick="toCenter();">
+					<img src="../images/center.png" class="personal-center">
+				</a>
+			</header>
+			<div class="car-index-top-box transparent_class">
+				<a id="top-img-a" href="">
+					<div class="index-img-top-box">
+						<img id="top-img" src="" class="index-img-top">
+					</div>
+				</a>
+				<a id="top-span-a" href="">
+					<span id="car-title" class="car-top-span-car-title"></span>
+				</a>
+			</div>
+			<div class="index-location-top transparent_class"
+				onclick="locate(this);">
+				<span class="mui-icon index-location-top-img"></span> <span
+					class="mui-icon car-index-location-top-span" id="location">
+					<c:if test="${   empty cityMap.resident_city_name}">
+				选择城市
+				</c:if> <c:if test="${  !empty cityMap.resident_city_name}">
+				${  cityMap.resident_city_name}
+				</c:if>
+				</span>
+			</div>
+			<div class="index-msg-top-bottom transparent_class"
+				id="limitedContent">
+				<c:if test="${  !empty message}">
+					<img src="../images/laba.png" class="index-msg-top-bottom-img">
+					<div class="index-msg-top-bottom-box" onclick="gotoMsg();">
+						${  message.messageType}:
+						<c:choose>
+							<c:when test="${   fn:length(message.title) > 18}">
+								<c:out value="${   fn:substring(message.title, 0, 18)}......" />
+							</c:when>
+							<c:otherwise>
+								<c:out value="${   message.title}" />
+							</c:otherwise>
+						</c:choose>
+					</div>
+					<img src="../images/right.png" class="index-msg-top-bottom-img">
+				</c:if>
+				<c:if test="${   empty message}">
+					<c:out value="${   limitedContent}" />
+				</c:if>
+			</div>
+		</div>
+		<ul class="mui-table-view mui-grid-view mui-grid-9">
+			#cmsparse("fengdie.vm")
+			#foreach($info in $qukuai)
+			<li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
+				#if($info.get("jiaobiao"))
+	          		<img src="../images/icon-new-jiaobiao.png" class="index-grid-9-new-icon">
+	          	#end
+	          	#if($info.get("url"))
+	          		<a href="alipays://platformapi/startapp?appId=2015042200550511&b=t&a=sh&pid=2015010800024214">
+          		#end
+	          		<img src="$info.get("img")" class="carui-img-height">
+		            <div class="mui-media-body carui-active-title">$info.get("title")</div>
+		            <div class="mui-media-body carui-active-desc">$info.get("desc")</div>
+	          	</a>	
+	        </li> 
+	        #end
+		</ul>
+		<div id="slider" class="mui-slider carui-index-banner-box">
+				<div class="mui-slider-group mui-slider-loop">
+					<!-- 这里筛选出最后一条数据  -->
+					<div class="mui-slider-item mui-slider-item-duplicate">
+						<a href="http://114.55.68.130:8080/promoactive-web-0.0.1-SNAPSHOT/promoactive/sign">
+							<img src="../images/banner1.jpg">
+						</a>
+					</div>
+					<!-- 这里是所有数据  -->
+					<div class="mui-slider-item mui-active">
+						<a href="http://114.55.68.130:8080/promoactive-web-0.0.1-SNAPSHOT/promoactive/sign">
+							<img src="../images/banner1.jpg">
+						</a>
+					</div>
+					<div class="mui-slider-item">
+						<a href="http://114.55.68.130:8080/promoactive-web-0.0.1-SNAPSHOT/promoactive/sign">
+							<img src="../images/banner1.jpg">
+						</a>
+					</div>
+					<div class="mui-slider-item">
+						<a href="http://114.55.68.130:8080/promoactive-web-0.0.1-SNAPSHOT/promoactive/sign">
+							<img src="../images/banner1.jpg">
+						</a>
+					</div>
+					<!-- 这里筛选出第一条数据  -->
+					<div class="mui-slider-item mui-slider-item-duplicate">
+						<a href="http://114.55.68.130:8080/promoactive-web-0.0.1-SNAPSHOT/promoactive/sign">
+							<img src="../images/banner1.jpg">
+						</a>
+					</div>
+				</div>
+				<div class="mui-slider-indicator">
+					<div class="mui-indicator mui-active"></div>
+					<div class="mui-indicator"></div>
+					<div class="mui-indicator"></div>
+				</div>
+			</div>
+	</div>
+
+	<c:if test="${   !empty myCar}">
+		<script type="text/javascript">
+			document.getElementById("top-img").src = "${   myCar.viLogoUrl}";
+			document.getElementById("top-img-a").href = '../car/toCarInfo?viId=${   myCar.viId}&backUrl=portal';
+			document.getElementById("top-span-a").href = "../car/toCarInfo?viId=${  myCar.viId}&backUrl=portal";
+			document.getElementById("car-title").innerHTML = "${  myCar.viBrandName}${  myCar.viSeriesName}";
+			if('${  myCar.bgUrl}' != ''){
+				$(".transparent_bg").css("background-image","url('${  myCar.bgUrl}')");
+			}
+		</script>
+	</c:if>
+	<c:if test="${  empty myCar}">
+		<script type="text/javascript">
+			localStorage.setItem("tokenId", "first-in");
+			document.getElementById("top-img").src = "../images/iconfont-jiahao.png";
+			document.getElementById("top-img-a").href = "../car/queryBrand?r="
+					+ Math.random() + '&backUrl=portal';
+			document.getElementById("top-span-a").href = "../car/queryBrand?r="
+					+ Math.random() + '&backUrl=portal';
+			document.getElementById("car-title").innerHTML = "添加爱车";
+		</script>
+	</c:if>
+	<script type="text/javascript">
+		function toCenter() {
+			location.href = "../owner/index?r=" + Math.random();
+		}
+		function gotoMsg() {
+			location.href = "../msg/toMessageList?r=" + Math.random();
+		}
+		function getLimitedContent(cityCode) {
+			<c:if test="${  empty message}">
+			$. ajax({
+				type : "POST",
+				url : "../owner/queryLimited",
+				dataType : "text",
+				cache : false,
+				data : "r=" + Math.random() + '&cityCode=' + cityCode,
+				success : function(data) {
+					if (data != '' && data != null) {
+						$("#limitedContent").text(data);
+					}
+				}
+			});
+			</c:if>
+		}
+		mui.init();
+		var slider = mui("#slider");
+		slider.slider({
+			interval:3000	
+		});
+		$(document).ready(function() {
+			var cityName = '${  cityMap.resident_city_name}';
+			if (cityName == '') {
+				//定位
+				AlipayJSBridge.call('getLocation', function(result) {
+					var citycode = '110010';
+					var cityname = '北京';
+					if (result.error) {
+						alert(result.errorMessage);
+						$("#location").text(cityname);
+						return;
+					}
+					var loca = result.city ? result.city : result.province;
+					if (loca != '') {
+						$("#location").text(loca.replace("市", ""));
+						citycode = result.citycode;
+						//getLimitedContent(result.citycode);
+						//alert(result.citycode);
+					} else {
+						$("#location").text(cityname);
+					}
+					getLimitedContent(citycode);
+				});
+			}
+			// 隐藏标题栏
+			AlipayJSBridge.call("hideTitlebar");
+			// 隐藏右按钮
+			AlipayJSBridge.call("hideOptionMenu");
+			// 隐藏工具栏
+			AlipayJSBridge.call("hideToolbar");
+		});
+	 	function toast(){
+			AlipayJSBridge.call('toast', {
+			    content: '服务维护中，敬请期待',
+			    type: '',
+			    duration: 3000
+			});
+		}
+		// 选择城市
+		function locate() {
+			/***/
+			AlipayJSBridge.call('getCities', {
+				currentCity : '北京',
+				adcode : '110100'
+			}, function(result) {
+				// 隐藏标题栏
+				AlipayJSBridge.call("hideTitlebar");
+				// 隐藏右按钮
+				AlipayJSBridge.call("hideOptionMenu");
+				// 隐藏工具栏
+				AlipayJSBridge.call("hideToolbar");
+				if (result.city != '') {
+					$("#location").text(result.city);
+					//alert(result.city+'|'+result.adcode);
+					$. ajax({
+						type : "POST",
+						url : "../owner/modifyResidentcity",
+						dataType : "json",
+						cache : false,
+						data : "r=" + Math.random() + '&cityName='
+								+ result.city + '&cityCode='
+								+ result.adcode,
+						success : function(data) {
+							//alert(data);
+							if (data != '' && data.result == '0') {
+								//getLimitedContent(result.adcode);
+								var msg = '${  message.title}';
+								if (msg == '') {
+									if (data.content == null) {
+										$("#limitedContent").text('');
+									} else {
+										$("#limitedContent").text(data.content);
+									}
+								}
+							}
+						}
+					});
+				}
+			});
+		}
+		function goBack() {
+			AlipayJSBridge.call('exitApp');
+		}
+	</script>
+</body>
+</html>

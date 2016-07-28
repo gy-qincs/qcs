@@ -1,0 +1,25 @@
+#Tue Jul 26 14:30:15 GMT+08:00 2016
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/config/common-config.properties=UTF-8
+encoding//src/main/resources/config/service.properties=UTF-8
+encoding//src/main/resources/config/velocity.properties=UTF-8
+encoding//src/main/webapp=UTF-8
+encoding//src/main/webapp/css/cars.css=UTF-8
+encoding//src/main/webapp/css/mui.indexedlist.css=UTF-8
+encoding//src/main/webapp/page/cars/carsDetail.jsp=UTF-8
+encoding//src/main/webapp/page/cars/carsList.jsp=UTF-8
+encoding//src/main/webapp/page/cars/carsListNull.jsp=UTF-8
+encoding//src/main/webapp/page/cars/completion.jsp=UTF-8
+encoding//src/main/webapp/page/cars/selectBrand.jsp=UTF-8
+encoding//src/main/webapp/page/cars/selectCarSeries.jsp=UTF-8
+encoding//src/main/webapp/page/cars/selectCarType.jsp=UTF-8
+encoding//src/main/webapp/page/cars/selectCarvProductionDate.jsp=UTF-8
+encoding//src/main/webapp/page/msg/carsMsgsMain.jsp=UTF-8
+encoding//src/main/webapp/page/msg/carsMsgsSub.jsp=UTF-8
+encoding//src/main/webapp/page/personal.jsp=UTF-8
+encoding//src/main/webapp/page/portal.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8

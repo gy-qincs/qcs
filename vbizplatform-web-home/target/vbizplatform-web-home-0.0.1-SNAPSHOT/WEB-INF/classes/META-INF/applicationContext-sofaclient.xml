@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sofa="http://schema.alipay.com/sofa/schema/slite"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://schema.alipay.com/sofa/schema/slite http://schema.alipay.com/sofa/slite.xsd">
+
+	<import resource="classpath*:META-INF/sofa-beans-api.xml" />
+
+	<!-- 行业类目 -->
+	<sofa:reference id="categoryAppService"
+		interface="com.alipay.categoryService.CategoryAppService">
+		<sofa:binding.tr><!-- 114.55.68.127:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="10.253.12.244:12200" 
+				connect.timeout="2000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+	
+	<!-- 车主车辆操作 -->
+	<sofa:reference id="vehicleService"
+		interface="com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade">
+		<sofa:binding.tr><!-- 10.253.11.176:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="114.55.68.127:12200" 
+				connect.timeout="2000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+
+	<!-- 保存车主信息 -->
+	<sofa:reference id="vehicleOwnerInfoService"
+		interface="com.alipay.vehicleownercore.common.service.facade.VehicleOwnerInfoServiceFacade">
+		<sofa:binding.tr><!-- 10.253.11.176:12200 -->
+			<sofa:global-attrs timeout="20000"
+				address-wait-time="2000"  test-url="114.55.68.127:12200" 
+				connect.timeout="2000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+
+	<!-- 根据常驻城市获取省份简称信息 -->
+	<sofa:reference id="cityMapFacadeService"
+		interface="com.alipay.fuellingPlatform.common.service.facade.CityMapFacade">
+		<sofa:binding.tr><!-- 10.253.12.84:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="114.55.68.191:12200" 
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+	
+	<!-- 车辆限行信息 -->
+	<sofa:reference id="limitedLineService"
+		interface="com.alipay.fuellingPlatform.common.service.facade.LimitedLineContent">
+		<sofa:binding.tr><!-- 10.253.12.84:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="114.55.68.191:12200" 
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+
+	<!-- 车辆品牌信息选择操作 -->
+	<sofa:reference id="vehicleQueryFacade"
+		interface="com.alipay.vehicleindustrycore.common.service.facade.VehicleQueryFacade">
+		<sofa:binding.tr><!-- test-url="10.253.0.153:12200" -->
+			<sofa:global-attrs timeout="20000"
+				address-wait-time="2000"  test-url="114.55.69.89:12200"
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+
+	<!-- 车主常驻城市 -->
+	<sofa:reference id="userFacade"
+		interface="com.alipay.oe.industrydata.common.service.facade.UserFacade">
+		<sofa:binding.tr><!-- 10.253.11.221:12200	10.139.107.15:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="114.55.69.189:12200" 
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+
+	<sofa:reference id="userAuthFacade"
+		interface="com.alipay.oe.industrydata.common.service.facade.UserAuthFacade">
+		<sofa:binding.tr><!-- 10.253.11.221:12200	10.139.107.15:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000" test-url="114.55.69.189:12200" 
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+
+	<sofa:reference id="isvFacade"
+		interface="com.alipay.oe.industrydata.common.service.facade.IsvFacade">
+		<sofa:binding.tr><!-- 10.253.11.221:12200	10.139.107.15:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="114.55.69.189:12200" 
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+
+
+	<!-- 车主消息 -->
+	<sofa:reference id="messageFacade"
+		interface="com.alipay.oe.industrydata.common.service.facade.MessageFacade">
+		<sofa:binding.tr><!-- 10.253.11.221:12200	10.139.107.15:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="114.55.69.189:12200"
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+	
+	<!-- 首展用户信息 -->
+	<sofa:reference id="memberService"
+		interface="com.alipay.carlife.member.facade.IMemberService">
+		<sofa:binding.tr><!-- 10.253.11.221:12200	10.139.107.15:12200 -->
+			<sofa:global-attrs timeout="5000"
+				address-wait-time="2000"  test-url="114.55.157.84:12200"
+				connect.timeout="1000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+	
+	<!-- 图片识别 -->
+	<sofa:reference id="aPGatewayFacade"
+		interface="com.alipay.openeco.apgateway.opgw.APGatewayFacade">
+		<sofa:binding.tr>
+			<sofa:global-attrs timeout="15000"
+				address-wait-time="5000" test-url="114.55.69.123:12200"
+				connect.timeout="5000" connect.num="-1" idle.timeout="-1"
+				idle.timeout.read="-1" />
+		</sofa:binding.tr>
+	</sofa:reference>
+</beans>

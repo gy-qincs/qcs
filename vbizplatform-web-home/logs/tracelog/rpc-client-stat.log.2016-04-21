@@ -1,0 +1,15 @@
+2016-04-21 11:13:08.381,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,1,327,N,F
+2016-04-21 12:07:07.672,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,1,52,Y,F
+2016-04-21 12:07:07.673,mycardemo,-,alipay.open.ecology.message.service.facade.MessageFacade:1.0,getMessage,2,16,Y,F
+2016-04-21 13:56:08.122,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,6,142,Y,F
+2016-04-21 13:56:08.122,mycardemo,-,alipay.open.ecology.message.service.facade.MessageFacade:1.0,getMessage,12,49,Y,F
+2016-04-21 14:56:26.831,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,2,348,Y,F
+2016-04-21 14:56:26.832,mycardemo,-,alipay.open.ecology.message.service.facade.MessageFacade:1.0,getMessage,4,33,Y,F
+2016-04-21 14:58:26.832,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,2,41,Y,F
+2016-04-21 14:58:26.833,mycardemo,-,alipay.open.ecology.message.service.facade.MessageFacade:1.0,getMessage,4,18,Y,F
+2016-04-21 15:22:26.833,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,1,29,Y,F
+2016-04-21 15:22:26.833,mycardemo,-,alipay.open.ecology.message.service.facade.MessageFacade:1.0,getMessage,2,7,Y,F
+2016-04-21 15:25:26.831,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,1,22,Y,F
+2016-04-21 15:25:26.831,mycardemo,-,alipay.open.ecology.message.service.facade.MessageFacade:1.0,getMessage,2,5,Y,F
+2016-04-21 16:35:26.436,mycardemo,-,com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0,getVehicleListByUid,2,39,Y,F
+2016-04-21 16:35:26.437,mycardemo,-,alipay.open.ecology.message.service.facade.MessageFacade:1.0,getMessage,4,9,Y,F

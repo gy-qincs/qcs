@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="vbizplatform-web-home"
+  id="myeclipse.1469514616371"
+  context-root="/vbizplatform-web-home"
+  j2ee-spec="1.7"
+  archive="vbizplatform-web-home.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

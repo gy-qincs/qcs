@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+	<!-- 控制台appender -->
+	<appender name="consoleAppender" class="org.apache.log4j.ConsoleAppender">
+		<param name="append" value="true" />
+		<param name="encoding" value="UTF-8" />
+		<param name="threshold" value="debug" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss,SSS} %-5p %l - %m%n" />
+		</layout>
+	</appender>
+
+	<!-- common-default.log -->
+	<appender name="defaultAppender" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="file" value="/home/admin/logs/common-default.log" />
+		<param name="append" value="true" />
+		<param name="encoding" value="UTF-8" />
+		<param name="threshold" value="debug" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss,SSS} %-5p %l - %m%n" />
+		</layout>
+	</appender>
+
+	<!-- common-error.log -->
+	<appender name="errorAppender" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="file" value="/home/admin/logs/common-error.log" />
+		<param name="append" value="true" />
+		<param name="encoding" value="UTF-8" />
+		<param name="threshold" value="error" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss,SSS} %-5p %l - %m%n" />
+		</layout>
+	</appender>
+
+	<!-- vbizplatform-service-integration-VehicleManageService.log -->
+	<appender name="VehicleManageServiceAppender" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="file" value="/home/admin/logs/vbizplatform-service-integration-VehicleManageService.log" />
+		<param name="append" value="true" />
+		<param name="encoding" value="UTF-8" />
+		<param name="threshold" value="debug" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss,SSS} %-5p %l - %m%n" />
+		</layout>
+	</appender>
+	
+	<!-- DAL-DIGEST.log -->
+	<appender name="DAL-DIGEST-Appender" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="file" value="/home/admin/logs/DAL-DIGEST.log" />
+		<param name="append" value="true" />
+		<param name="encoding" value="UTF-8" />
+		<param name="threshold" value="debug" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss,SSS} %-5p %c - %m%n" />
+		</layout>
+	</appender>
+	
+	<logger name="MyCarManageServiceImpl" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="VehicleManageServiceAppender" />
+		<appender-ref ref="errorAppender" />
+	</logger>
+	
+	<logger name="DAL-DIGEST" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="DAL-DIGEST-Appender" />
+		<appender-ref ref="errorAppender" />
+	</logger>
+	
+	<root>
+		<level value="debug" />
+		<appender-ref ref="consoleAppender" />
+		<appender-ref ref="defaultAppender" />
+		<appender-ref ref="errorAppender" />
+	</root>
+</log4j:configuration>

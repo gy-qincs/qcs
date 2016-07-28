@@ -1,0 +1,4 @@
+2016-04-20 10:13:13,561 INFO [main] [RPC-REGISTRY] - 璁㈤槄 RPC 鏈嶅姟锛氭湇鍔″悕[com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0@DEFAULT]
+2016-04-20 10:13:14,575 INFO [main] [RPC-REGISTRY] - 璁㈤槄 RPC 鏈嶅姟锛氭湇鍔″悕[alipay.open.ecology.message.service.facade.MessageFacade:1.0@DEFAULT]
+2016-04-20 17:51:58,274 INFO [main] [RPC-REGISTRY] - 订阅 RPC 服务：服务名[com.alipay.vehicleownercore.common.service.facade.VehicleServiceFacade:1.0@DEFAULT]
+2016-04-20 17:51:59,288 INFO [main] [RPC-REGISTRY] - 订阅 RPC 服务：服务名[alipay.open.ecology.message.service.facade.MessageFacade:1.0@DEFAULT]
